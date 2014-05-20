@@ -7,10 +7,9 @@ My academic home page is [here](http://www.cs.fiu.edu/~ltang002), where you can 
 
 ----------
 
-
 Blogs
 --------------
-####<i class="icon-file"></i> [Notes for Variational Bayesian Inference](variational_note1.html)
+####<i class="icon-coffee"></i> [Notes for Variational Bayesian Inference](variational_note1.html)
 
 **Variational method** is an approximation method to compute the posterior distribution in Bayesian learning when there is no conjugate likelihood function. This note is to summarize the content from the variational chapter in [PRML](http://research.microsoft.com/en-us/um/people/cmbishop/prml/).
  
