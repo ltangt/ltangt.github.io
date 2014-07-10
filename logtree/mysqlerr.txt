@@ -1,0 +1,270 @@
+091021 10:05:01 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+091021 10:05:01  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+091021 10:05:01  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+091021 10:05:01  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+091021 10:05:02  InnoDB: Started; log sequence number 0 0
+091021 10:05:02 [Note] Event Scheduler: Loaded 0 events
+091021 10:05:02 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100108 12:06:34 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100108 12:06:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100108 12:06:35  InnoDB: Started; log sequence number 0 44233
+100108 12:06:36 [Note] Event Scheduler: Loaded 0 events
+100108 12:06:36 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100108 12:59:46 [Warning] Found invalid password for user: '@%'; Ignoring user
+100108 15:26:49 [Warning] Found invalid password for user: '@%'; Ignoring user
+100108 15:29:41 [Warning] Found invalid password for user: '@%'; Ignoring user
+100113 11:22:36 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100113 11:22:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100113 11:22:36  InnoDB: Started; log sequence number 0 44233
+100113 11:22:36 [Warning] Found invalid password for user: '@%'; Ignoring user
+100113 11:22:37 [Note] Event Scheduler: Loaded 0 events
+100113 11:22:37 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100122 12:50:17 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100122 12:50:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100122 12:50:18  InnoDB: Started; log sequence number 0 44233
+100122 12:50:18 [Warning] Found invalid password for user: '@%'; Ignoring user
+100122 12:50:19 [Note] Event Scheduler: Loaded 0 events
+100122 12:50:19 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100203 14:44:55 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100203 14:44:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100203 14:44:56  InnoDB: Started; log sequence number 0 44233
+100203 14:44:56 [Warning] Found invalid password for user: '@%'; Ignoring user
+100203 14:44:56 [Note] Event Scheduler: Loaded 0 events
+100203 14:44:56 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100210 16:35:09 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100210 16:35:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100210 16:35:10  InnoDB: Started; log sequence number 0 44233
+100210 16:35:10 [Warning] Found invalid password for user: '@%'; Ignoring user
+100210 16:35:11 [Note] Event Scheduler: Loaded 0 events
+100210 16:35:11 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100404 16:50:37 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100404 16:50:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100404 16:50:37  InnoDB: Started; log sequence number 0 44233
+100404 16:50:37 [Warning] Found invalid password for user: '@%'; Ignoring user
+100404 16:50:38 [Note] Event Scheduler: Loaded 0 events
+100404 16:50:38 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100404 16:55:06 [Note] Plugin 'FEDERATED' is disabled.
+100404 16:55:06  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+100404 16:56:35 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100404 16:56:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100404 16:56:36  InnoDB: Started; log sequence number 0 44233
+100404 16:56:36 [Warning] Found invalid password for user: '@%'; Ignoring user
+100404 16:56:36 [Note] Event Scheduler: Loaded 0 events
+100404 16:56:36 [Note] mysqld: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100404 16:58:31 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100404 16:58:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100404 16:58:31  InnoDB: Started; log sequence number 0 44233
+100404 16:58:31 [Warning] Found invalid password for user: '@%'; Ignoring user
+100404 16:58:31 [Note] Event Scheduler: Loaded 0 events
+100404 16:58:31 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100404 16:59:29 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100404 16:59:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100404 16:59:29  InnoDB: Started; log sequence number 0 44233
+100404 16:59:29 [Warning] Found invalid password for user: '@%'; Ignoring user
+100404 16:59:29 [Note] Event Scheduler: Loaded 0 events
+100404 16:59:29 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100405 10:26:58 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100405 10:26:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100405 10:26:58  InnoDB: Started; log sequence number 0 44233
+100405 10:26:58 [Warning] Found invalid password for user: '@%'; Ignoring user
+100405 10:26:58 [Note] Event Scheduler: Loaded 0 events
+100405 10:26:58 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100405 10:28:42 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100405 10:28:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100405 10:28:42  InnoDB: Started; log sequence number 0 44233
+100405 10:28:42 [Warning] Found invalid password for user: '@%'; Ignoring user
+100405 10:28:42 [Note] Event Scheduler: Loaded 0 events
+100405 10:28:42 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100414 10:06:48 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100414 10:06:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100414 10:06:48  InnoDB: Started; log sequence number 0 44233
+100414 10:06:49 [Warning] Found invalid password for user: '@%'; Ignoring user
+100414 10:06:49 [Note] Event Scheduler: Loaded 0 events
+100414 10:06:49 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 16:56:38 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100619 16:56:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100619 16:56:38  InnoDB: Started; log sequence number 0 44233
+100619 16:56:38 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 16:56:39 [Note] Event Scheduler: Loaded 0 events
+100619 16:56:39 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 16:58:18 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100619 16:58:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100619 16:58:18  InnoDB: Started; log sequence number 0 44233
+100619 16:58:18 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 16:58:18 [Note] Event Scheduler: Loaded 0 events
+100619 16:58:18 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 17:15:58 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100619 17:15:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100619 17:15:58  InnoDB: Started; log sequence number 0 44233
+100619 17:15:58 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 17:15:58 [Note] Event Scheduler: Loaded 0 events
+100619 17:15:58 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 17:16:49 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+100619 17:16:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100619 17:16:49  InnoDB: Started; log sequence number 0 44233
+100619 17:16:49 [ERROR] mysqld: unknown option '--sys-log'
+100619 17:16:49 [ERROR] Aborting
+100619 17:16:49  InnoDB: Starting shutdown...
+100619 17:16:51  InnoDB: Shutdown completed; log sequence number 0 44233
+100619 17:16:51 [Warning] Forcing shutdown of 1 plugins
+100619 17:16:51 [Note] mysqld: Shutdown complete
+100619 17:17:33 [Note] Plugin 'FEDERATED' is disabled.
+100619 17:17:33  InnoDB: Started; log sequence number 0 44233
+100619 17:17:33 [ERROR] mysqld: unknown option '--syslog'
+100619 17:17:33 [ERROR] Aborting
+100619 17:17:33  InnoDB: Starting shutdown...
+100619 17:17:34  InnoDB: Shutdown completed; log sequence number 0 44233
+100619 17:17:34 [Warning] Forcing shutdown of 1 plugins
+100619 17:17:34 [Note] mysqld: Shutdown complete
+100619 17:26:33 [Note] Plugin 'FEDERATED' is disabled.
+100619 17:26:33  InnoDB: Started; log sequence number 0 44233
+100619 17:26:33 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 17:26:33 [Note] Event Scheduler: Loaded 0 events
+100619 17:26:33 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 17:29:36 [Note] Plugin 'FEDERATED' is disabled.
+100619 17:29:36  InnoDB: Started; log sequence number 0 44233
+100619 17:29:36 [ERROR] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: unknown option '--syslog'
+100619 17:29:36 [ERROR] Aborting
+100619 17:29:36  InnoDB: Starting shutdown...
+100619 17:29:38  InnoDB: Shutdown completed; log sequence number 0 44233
+100619 17:29:38 [Warning] Forcing shutdown of 1 plugins
+100619 17:29:38 [Note] C:\apps\mysql-5.1.39-win32\bin\mysqld.exe: Shutdown complete
+100619 17:35:32 [Note] Plugin 'FEDERATED' is disabled.
+100619 17:35:32  InnoDB: Started; log sequence number 0 44233
+100619 17:35:32 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 17:35:32 [Note] Event Scheduler: Loaded 0 events
+100619 17:35:32 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100619 17:39:07 [Note] Plugin 'FEDERATED' is disabled.
+100619 17:39:08  InnoDB: Started; log sequence number 0 44233
+100619 17:39:08 [Warning] Found invalid password for user: '@%'; Ignoring user
+100619 17:39:08 [Note] Event Scheduler: Loaded 0 events
+100619 17:39:08 [Note] mysqld: ready for connections.
+Version: '5.1.39-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)

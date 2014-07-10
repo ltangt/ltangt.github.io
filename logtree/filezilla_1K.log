@@ -1,0 +1,1000 @@
+2010-05-02 00:21:40 7036 10 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 00:21:40 7036 10 Response: fzSftp started
+2010-05-02 00:21:40 7036 10 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 00:21:41 7036 10 Command: Pass: ***********
+2010-05-02 00:21:41 7036 10 Status: Connected to bear.cs.fiu.edu
+2010-05-02 00:21:42 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:21:42 7036 10 Command: pwd
+2010-05-02 00:21:42 7036 10 Response: Current directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:21:42 7036 10 Command: ls
+2010-05-02 00:21:42 7036 10 Status: Listing directory /disk/storage006/users/ltang002
+2010-05-02 00:21:42 7036 10 Status: Calculating timezone offset of server...
+2010-05-02 00:21:42 7036 10 Command: mtime ".history"
+2010-05-02 00:21:42 7036 10 Response: 1272301752
+2010-05-02 00:21:42 7036 10 Status: Timezone offsets: Server: -14400 seconds. Local: -14400 seconds. Difference: 0 seconds.
+2010-05-02 00:21:42 7036 10 Status: Directory listing successful
+2010-05-02 00:21:44 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:21:44 7036 10 Command: cd "MyFiles"
+2010-05-02 00:21:44 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles"
+2010-05-02 00:21:44 7036 10 Command: ls
+2010-05-02 00:21:44 7036 10 Status: Listing directory /disk/storage006/users/ltang002/MyFiles
+2010-05-02 00:21:44 7036 10 Status: Directory listing successful
+2010-05-02 00:22:33 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:22:33 7036 10 Command: cd "MyResearch"
+2010-05-02 00:22:33 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch"
+2010-05-02 00:22:33 7036 10 Command: ls
+2010-05-02 00:22:33 7036 10 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch
+2010-05-02 00:22:33 7036 10 Status: Directory listing successful
+2010-05-02 00:27:03 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:27:03 7036 10 Command: cd ".."
+2010-05-02 00:27:03 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles"
+2010-05-02 00:27:03 7036 10 Status: Directory listing successful
+2010-05-02 00:27:19 7036 10 Status: Disconnected from server
+2010-05-02 00:27:25 7036 10 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 00:27:25 7036 10 Response: fzSftp started
+2010-05-02 00:27:25 7036 10 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 00:27:25 7036 10 Command: Pass: ***********
+2010-05-02 00:27:26 7036 10 Status: Connected to bear.cs.fiu.edu
+2010-05-02 00:27:26 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:27:26 7036 10 Command: pwd
+2010-05-02 00:27:26 7036 10 Response: Current directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:27:26 7036 10 Status: Directory listing successful
+2010-05-02 00:27:31 7036 12 Status: Connecting to 192.168.0.102:21...
+2010-05-02 00:27:51 7036 12 Error: Connection timed out
+2010-05-02 00:27:51 7036 12 Error: Could not connect to server
+2010-05-02 00:27:51 7036 12 Status: Waiting to retry...
+2010-05-02 00:27:55 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:27:55 7036 10 Command: cd ".ssh"
+2010-05-02 00:27:55 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ssh"
+2010-05-02 00:27:55 7036 10 Command: ls
+2010-05-02 00:27:55 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ssh
+2010-05-02 00:27:55 7036 10 Status: Directory listing successful
+2010-05-02 00:27:56 7036 12 Status: Connecting to 192.168.0.102:21...
+2010-05-02 00:27:57 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:27:57 7036 10 Command: cd ".."
+2010-05-02 00:27:57 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:27:57 7036 10 Status: Directory listing successful
+2010-05-02 00:28:02 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:28:02 7036 10 Command: cd ".ad-profile"
+2010-05-02 00:28:02 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile"
+2010-05-02 00:28:02 7036 10 Command: ls
+2010-05-02 00:28:02 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile
+2010-05-02 00:28:03 7036 10 Status: Directory listing successful
+2010-05-02 00:28:17 7036 12 Error: Connection timed out
+2010-05-02 00:28:17 7036 12 Error: Could not connect to server
+2010-05-02 00:28:33 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:28:33 7036 10 Command: cd "Application Data"
+2010-05-02 00:28:33 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Application Data"
+2010-05-02 00:28:33 7036 10 Command: ls
+2010-05-02 00:28:33 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Application Data
+2010-05-02 00:28:34 7036 10 Status: Directory listing successful
+2010-05-02 00:28:48 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:28:48 7036 10 Command: cd "Subversion"
+2010-05-02 00:28:49 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Application Data/Subversion"
+2010-05-02 00:28:49 7036 10 Command: ls
+2010-05-02 00:28:49 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Application Data/Subversion
+2010-05-02 00:28:49 7036 10 Status: Directory listing successful
+2010-05-02 00:28:52 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:28:52 7036 10 Command: cd ".."
+2010-05-02 00:28:52 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Application Data"
+2010-05-02 00:28:52 7036 10 Status: Directory listing successful
+2010-05-02 00:28:59 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:28:59 7036 10 Command: cd "MySQL"
+2010-05-02 00:28:59 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Application Data/MySQL"
+2010-05-02 00:28:59 7036 10 Command: ls
+2010-05-02 00:28:59 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Application Data/MySQL
+2010-05-02 00:29:00 7036 10 Status: Directory listing successful
+2010-05-02 00:29:01 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:01 7036 10 Command: cd ".."
+2010-05-02 00:29:01 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Application Data"
+2010-05-02 00:29:01 7036 10 Status: Directory listing successful
+2010-05-02 00:29:19 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:19 7036 10 Command: cd ".."
+2010-05-02 00:29:20 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile"
+2010-05-02 00:29:20 7036 10 Status: Directory listing successful
+2010-05-02 00:29:29 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:29 7036 10 Command: cd "Repositories"
+2010-05-02 00:29:29 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Repositories"
+2010-05-02 00:29:29 7036 10 Command: ls
+2010-05-02 00:29:30 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Repositories
+2010-05-02 00:29:30 7036 10 Status: Directory listing successful
+2010-05-02 00:29:33 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:33 7036 10 Command: cd "courses"
+2010-05-02 00:29:34 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Repositories/courses"
+2010-05-02 00:29:34 7036 10 Command: ls
+2010-05-02 00:29:34 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Repositories/courses
+2010-05-02 00:29:34 7036 10 Status: Directory listing successful
+2010-05-02 00:29:38 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:38 7036 10 Command: cd "conf"
+2010-05-02 00:29:38 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Repositories/courses/conf"
+2010-05-02 00:29:38 7036 10 Command: ls
+2010-05-02 00:29:38 7036 10 Status: Listing directory /disk/storage006/users/ltang002/.ad-profile/Repositories/courses/conf
+2010-05-02 00:29:39 7036 10 Status: Directory listing successful
+2010-05-02 00:29:40 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:40 7036 10 Command: cd ".."
+2010-05-02 00:29:40 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Repositories/courses"
+2010-05-02 00:29:40 7036 10 Status: Directory listing successful
+2010-05-02 00:29:42 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:42 7036 10 Command: cd ".."
+2010-05-02 00:29:42 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile/Repositories"
+2010-05-02 00:29:42 7036 10 Status: Directory listing successful
+2010-05-02 00:29:43 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:43 7036 10 Command: cd ".."
+2010-05-02 00:29:44 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/.ad-profile"
+2010-05-02 00:29:44 7036 10 Status: Directory listing successful
+2010-05-02 00:29:55 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:29:55 7036 10 Command: cd ".."
+2010-05-02 00:29:55 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:29:55 7036 10 Status: Directory listing successful
+2010-05-02 00:30:11 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:11 7036 10 Command: cd "SQL Server Management Studio Express"
+2010-05-02 00:30:11 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/SQL Server Management Studio Express"
+2010-05-02 00:30:11 7036 10 Command: ls
+2010-05-02 00:30:11 7036 10 Status: Listing directory /disk/storage006/users/ltang002/SQL Server Management Studio Express
+2010-05-02 00:30:11 7036 10 Status: Directory listing successful
+2010-05-02 00:30:13 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:13 7036 10 Command: cd ".."
+2010-05-02 00:30:13 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:30:13 7036 10 Status: Directory listing successful
+2010-05-02 00:30:17 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:17 7036 10 Command: cd "My Data Sources"
+2010-05-02 00:30:17 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/My Data Sources"
+2010-05-02 00:30:17 7036 10 Command: ls
+2010-05-02 00:30:17 7036 10 Status: Listing directory /disk/storage006/users/ltang002/My Data Sources
+2010-05-02 00:30:17 7036 10 Status: Directory listing successful
+2010-05-02 00:30:19 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:19 7036 10 Command: cd ".."
+2010-05-02 00:30:19 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:30:19 7036 10 Status: Directory listing successful
+2010-05-02 00:30:28 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:28 7036 10 Command: cd "temp"
+2010-05-02 00:30:28 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/temp"
+2010-05-02 00:30:28 7036 10 Command: ls
+2010-05-02 00:30:28 7036 10 Status: Listing directory /disk/storage006/users/ltang002/temp
+2010-05-02 00:30:28 7036 10 Status: Directory listing successful
+2010-05-02 00:30:30 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:30 7036 10 Command: cd ".."
+2010-05-02 00:30:30 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:30:30 7036 10 Status: Directory listing successful
+2010-05-02 00:30:33 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:33 7036 10 Command: cd "appData"
+2010-05-02 00:30:33 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/appData"
+2010-05-02 00:30:33 7036 10 Command: ls
+2010-05-02 00:30:33 7036 10 Status: Listing directory /disk/storage006/users/ltang002/appData
+2010-05-02 00:30:33 7036 10 Status: Directory listing successful
+2010-05-02 00:30:37 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:37 7036 10 Command: cd ".eclipse"
+2010-05-02 00:30:37 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/appData/.eclipse"
+2010-05-02 00:30:37 7036 10 Command: ls
+2010-05-02 00:30:38 7036 10 Status: Listing directory /disk/storage006/users/ltang002/appData/.eclipse
+2010-05-02 00:30:38 7036 10 Status: Directory listing successful
+2010-05-02 00:30:38 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:38 7036 10 Command: cd ".."
+2010-05-02 00:30:39 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/appData"
+2010-05-02 00:30:39 7036 10 Status: Directory listing successful
+2010-05-02 00:30:39 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:39 7036 10 Command: cd ".firefox"
+2010-05-02 00:30:39 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/appData/.firefox"
+2010-05-02 00:30:39 7036 10 Command: ls
+2010-05-02 00:30:40 7036 10 Status: Listing directory /disk/storage006/users/ltang002/appData/.firefox
+2010-05-02 00:30:40 7036 10 Status: Directory listing successful
+2010-05-02 00:30:41 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:41 7036 10 Command: cd ".."
+2010-05-02 00:30:41 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/appData"
+2010-05-02 00:30:41 7036 10 Status: Directory listing successful
+2010-05-02 00:30:42 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:42 7036 10 Command: cd ".."
+2010-05-02 00:30:43 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:30:43 7036 10 Status: Directory listing successful
+2010-05-02 00:30:48 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:48 7036 10 Command: cd "mail"
+2010-05-02 00:30:48 7036 10 Response: New directory is: "/disk/storage006/users/ltang002/mail"
+2010-05-02 00:30:48 7036 10 Command: ls
+2010-05-02 00:30:48 7036 10 Status: Listing directory /disk/storage006/users/ltang002/mail
+2010-05-02 00:30:48 7036 10 Status: Directory listing successful
+2010-05-02 00:30:54 7036 10 Status: Retrieving directory listing...
+2010-05-02 00:30:54 7036 10 Command: cd ".."
+2010-05-02 00:30:54 7036 10 Response: New directory is: "/disk/storage006/users/ltang002"
+2010-05-02 00:30:54 7036 10 Status: Directory listing successful
+2010-05-02 11:33:16 4084 10 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:16 4084 10 Response: fzSftp started
+2010-05-02 11:33:16 4084 10 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:17 4084 10 Command: Pass: ***********
+2010-05-02 11:33:18 4084 10 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:18 4084 10 Status: Retrieving directory listing...
+2010-05-02 11:33:18 4084 10 Command: pwd
+2010-05-02 11:33:18 4084 10 Response: Current directory is: "/disk/storage006/users/ltang002"
+2010-05-02 11:33:18 4084 10 Command: ls
+2010-05-02 11:33:18 4084 10 Status: Listing directory /disk/storage006/users/ltang002
+2010-05-02 11:33:19 4084 10 Status: Calculating timezone offset of server...
+2010-05-02 11:33:19 4084 10 Command: mtime ".history"
+2010-05-02 11:33:19 4084 10 Response: 1272301752
+2010-05-02 11:33:19 4084 10 Status: Timezone offsets: Server: -14400 seconds. Local: -14400 seconds. Difference: 0 seconds.
+2010-05-02 11:33:19 4084 10 Status: Directory listing successful
+2010-05-02 11:33:21 4084 10 Status: Retrieving directory listing...
+2010-05-02 11:33:21 4084 10 Command: cd "MyFiles"
+2010-05-02 11:33:22 4084 10 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles"
+2010-05-02 11:33:22 4084 10 Command: ls
+2010-05-02 11:33:22 4084 10 Status: Listing directory /disk/storage006/users/ltang002/MyFiles
+2010-05-02 11:33:23 4084 10 Status: Directory listing successful
+2010-05-02 11:33:25 4084 10 Status: Retrieving directory listing...
+2010-05-02 11:33:25 4084 10 Command: cd "MyResearch"
+2010-05-02 11:33:25 4084 10 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch"
+2010-05-02 11:33:25 4084 10 Command: ls
+2010-05-02 11:33:25 4084 10 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch
+2010-05-02 11:33:26 4084 10 Status: Directory listing successful
+2010-05-02 11:33:29 4084 0 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 1 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 2 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 3 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 4 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 5 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 6 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 7 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 8 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 9 Status: Connecting to bear.cs.fiu.edu...
+2010-05-02 11:33:29 4084 5 Response: fzSftp started
+2010-05-02 11:33:29 4084 5 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 4 Response: fzSftp started
+2010-05-02 11:33:29 4084 4 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 7 Response: fzSftp started
+2010-05-02 11:33:29 4084 7 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 1 Response: fzSftp started
+2010-05-02 11:33:29 4084 1 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 0 Response: fzSftp started
+2010-05-02 11:33:29 4084 0 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 2 Response: fzSftp started
+2010-05-02 11:33:29 4084 2 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:29 4084 3 Response: fzSftp started
+2010-05-02 11:33:29 4084 3 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:30 4084 6 Response: fzSftp started
+2010-05-02 11:33:30 4084 6 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:30 4084 9 Response: fzSftp started
+2010-05-02 11:33:30 4084 9 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:30 4084 8 Response: fzSftp started
+2010-05-02 11:33:30 4084 8 Command: open "ltang002@bear.cs.fiu.edu" 22
+2010-05-02 11:33:35 4084 5 Command: Pass: ***********
+2010-05-02 11:33:35 4084 5 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 9 Command: Pass: ***********
+2010-05-02 11:33:35 4084 3 Command: Pass: ***********
+2010-05-02 11:33:35 4084 1 Command: Pass: ***********
+2010-05-02 11:33:35 4084 0 Command: Pass: ***********
+2010-05-02 11:33:35 4084 4 Command: Pass: ***********
+2010-05-02 11:33:35 4084 7 Command: Pass: ***********
+2010-05-02 11:33:35 4084 5 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\wineventlog.xml
+2010-05-02 11:33:35 4084 5 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:35 4084 2 Command: Pass: ***********
+2010-05-02 11:33:35 4084 8 Command: Pass: ***********
+2010-05-02 11:33:35 4084 9 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 1 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 7 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 3 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 0 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:35 4084 6 Command: Pass: ***********
+2010-05-02 11:33:35 4084 4 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:36 4084 5 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining: no such file or directory
+2010-05-02 11:33:36 4084 5 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch"
+2010-05-02 11:33:36 4084 2 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:36 4084 8 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:36 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\version.ini
+2010-05-02 11:33:36 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:36 4084 1 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\opennlp-tools-1.4.3.tgz
+2010-05-02 11:33:36 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.project
+2010-05-02 11:33:36 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:36 4084 3 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\pvfs2-server.log
+2010-05-02 11:33:36 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\mysqlerr.txt
+2010-05-02 11:33:36 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\wineventlog.txt
+2010-05-02 11:33:36 4084 6 Status: Connected to bear.cs.fiu.edu
+2010-05-02 11:33:36 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\pvfs2-error.log
+2010-05-02 11:33:36 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.classpath
+2010-05-02 11:33:36 4084 5 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch"
+2010-05-02 11:33:36 4084 5 Command: mkdir "LogMining"
+2010-05-02 11:33:36 4084 7 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata: no such file or directory
+2010-05-02 11:33:36 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy"
+2010-05-02 11:33:36 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1: no such file or directory
+2010-05-02 11:33:36 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy"
+2010-05-02 11:33:36 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.lock
+2010-05-02 11:33:36 4084 7 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy: no such file or directory
+2010-05-02 11:33:36 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 5 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining: OK
+2010-05-02 11:33:36 4084 5 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy: no such file or directory
+2010-05-02 11:33:36 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 5 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 5 Status: Retrieving directory listing...
+2010-05-02 11:33:36 4084 5 Command: ls
+2010-05-02 11:33:36 4084 1 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 7 Command: mkdir "LogStudy"
+2010-05-02 11:33:36 4084 3 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:36 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 9 Command: mkdir "LogStudy"
+2010-05-02 11:33:37 4084 5 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining
+2010-05-02 11:33:37 4084 3 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 3 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy: OK
+2010-05-02 11:33:37 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy"
+2010-05-02 11:33:37 4084 1 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 1 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 4 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 2 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining"
+2010-05-02 11:33:37 4084 0 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 9 Error: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy: failure
+2010-05-02 11:33:37 4084 9 Command: mkdir "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:37 4084 5 Command: put "E:\MyProjects\MyResearch\LogMining\wineventlog.xml" "wineventlog.xml"
+2010-05-02 11:33:37 4084 3 Error: File transfer failed
+2010-05-02 11:33:37 4084 1 Error: File transfer failed
+2010-05-02 11:33:37 4084 3 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\pvfs2-server.log
+2010-05-02 11:33:37 4084 3 Command: put "E:\MyProjects\MyResearch\LogMining\pvfs2-server.log" "pvfs2-server.log"
+2010-05-02 11:33:37 4084 1 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\opennlp-tools-1.4.3.tgz
+2010-05-02 11:33:37 4084 1 Command: put "E:\MyProjects\MyResearch\LogMining\opennlp-tools-1.4.3.tgz" "opennlp-tools-1.4.3.tgz"
+2010-05-02 11:33:37 4084 4 Error: File transfer failed
+2010-05-02 11:33:37 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\wineventlog.txt
+2010-05-02 11:33:37 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\wineventlog.txt" "wineventlog.txt"
+2010-05-02 11:33:37 4084 2 Error: File transfer failed
+2010-05-02 11:33:37 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\pvfs2-error.log
+2010-05-02 11:33:37 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\pvfs2-error.log" "pvfs2-error.log"
+2010-05-02 11:33:37 4084 0 Error: File transfer failed
+2010-05-02 11:33:37 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\mysqlerr.txt
+2010-05-02 11:33:37 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\mysqlerr.txt" "mysqlerr.txt"
+2010-05-02 11:33:37 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy"
+2010-05-02 11:33:37 4084 7 Command: mkdir ".metadata"
+2010-05-02 11:33:37 4084 9 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1: OK
+2010-05-02 11:33:37 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:37 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata: OK
+2010-05-02 11:33:37 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:37 4084 1 Status: local:E:\MyProjects\MyResearch\LogMining\opennlp-tools-1.4.3.tgz => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/opennlp-tools-1.4.3.tgz
+2010-05-02 11:33:37 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\mysqlerr.txt => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/mysqlerr.txt
+2010-05-02 11:33:37 4084 3 Status: local:E:\MyProjects\MyResearch\LogMining\pvfs2-server.log => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/pvfs2-server.log
+2010-05-02 11:33:37 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:37 4084 9 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 9 Command: ls
+2010-05-02 11:33:37 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:37 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\pvfs2-error.log => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/pvfs2-error.log
+2010-05-02 11:33:37 4084 9 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1
+2010-05-02 11:33:37 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:37 4084 7 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 7 Command: ls
+2010-05-02 11:33:37 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:37 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:37 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 7 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata
+2010-05-02 11:33:37 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.project" ".project"
+2010-05-02 11:33:37 4084 8 Error: File transfer failed
+2010-05-02 11:33:37 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.classpath
+2010-05-02 11:33:37 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.classpath" ".classpath"
+2010-05-02 11:33:37 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:37 4084 6 Status: Retrieving directory listing...
+2010-05-02 11:33:37 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\wineventlog.txt => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/wineventlog.txt
+2010-05-02 11:33:38 4084 5 Status: local:E:\MyProjects\MyResearch\LogMining\wineventlog.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/wineventlog.xml
+2010-05-02 11:33:38 4084 0 Status: File transfer successful, transferred 7,575 bytes in 1 second
+2010-05-02 11:33:38 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\.tasks.xml.zip
+2010-05-02 11:33:38 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:38 4084 2 Status: File transfer successful, transferred 5,860 bytes in 1 second
+2010-05-02 11:33:38 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\repositories.xml.zip
+2010-05-02 11:33:38 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\version.ini" "version.ini"
+2010-05-02 11:33:38 4084 6 Error: File transfer failed
+2010-05-02 11:33:38 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.lock
+2010-05-02 11:33:38 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.lock" ".lock"
+2010-05-02 11:33:38 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.project => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.project
+2010-05-02 11:33:38 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.classpath => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.classpath
+2010-05-02 11:33:38 4084 0 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn: no such file or directory
+2010-05-02 11:33:38 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:38 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\version.ini => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/version.ini
+2010-05-02 11:33:38 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.lock => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.lock
+2010-05-02 11:33:38 4084 9 Status: File transfer successful, transferred 386 bytes in 1 second
+2010-05-02 11:33:38 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\tasks.xml.zip
+2010-05-02 11:33:38 4084 8 Status: File transfer successful, transferred 645 bytes in 1 second
+2010-05-02 11:33:38 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.settings\org.eclipse.jdt.core.prefs
+2010-05-02 11:33:38 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings"
+2010-05-02 11:33:38 4084 6 Status: File transfer successful, transferred 0 bytes in 1 second
+2010-05-02 11:33:38 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ant.jar
+2010-05-02 11:33:38 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:38 4084 7 Status: File transfer successful, transferred 26 bytes in 1 second
+2010-05-02 11:33:38 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ASL
+2010-05-02 11:33:38 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:38 4084 0 Command: mkdir ".mylyn"
+2010-05-02 11:33:38 4084 8 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings: no such file or directory
+2010-05-02 11:33:38 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:38 4084 6 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib: no such file or directory
+2010-05-02 11:33:38 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:38 4084 0 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn: OK
+2010-05-02 11:33:38 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:38 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:38 4084 8 Command: mkdir ".settings"
+2010-05-02 11:33:39 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1"
+2010-05-02 11:33:39 4084 6 Command: mkdir "lib"
+2010-05-02 11:33:39 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:39 4084 0 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 0 Command: ls
+2010-05-02 11:33:39 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:39 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:39 4084 0 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn
+2010-05-02 11:33:39 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings: OK
+2010-05-02 11:33:39 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings"
+2010-05-02 11:33:39 4084 6 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib: OK
+2010-05-02 11:33:39 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:39 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:39 4084 2 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:39 4084 9 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings"
+2010-05-02 11:33:39 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 8 Command: ls
+2010-05-02 11:33:39 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\.tasks.xml.zip" ".tasks.xml.zip"
+2010-05-02 11:33:39 4084 2 Error: File transfer failed
+2010-05-02 11:33:39 4084 9 Error: File transfer failed
+2010-05-02 11:33:39 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\repositories.xml.zip
+2010-05-02 11:33:39 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\repositories.xml.zip" "repositories.xml.zip"
+2010-05-02 11:33:39 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\tasks.xml.zip
+2010-05-02 11:33:39 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\tasks.xml.zip" "tasks.xml.zip"
+2010-05-02 11:33:39 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:39 4084 6 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 6 Command: ls
+2010-05-02 11:33:39 4084 8 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings
+2010-05-02 11:33:39 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:39 4084 6 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib
+2010-05-02 11:33:39 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\.tasks.xml.zip => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn/.tasks.xml.zip
+2010-05-02 11:33:39 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\tasks.xml.zip => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn/tasks.xml.zip
+2010-05-02 11:33:39 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.mylyn\repositories.xml.zip => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn/repositories.xml.zip
+2010-05-02 11:33:39 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:39 4084 7 Status: Retrieving directory listing...
+2010-05-02 11:33:39 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.settings\org.eclipse.jdt.core.prefs" "org.eclipse.jdt.core.prefs"
+2010-05-02 11:33:39 4084 0 Status: File transfer successful, transferred 250 bytes in 1 second
+2010-05-02 11:33:39 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jakarta-ant-optional.jar
+2010-05-02 11:33:39 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:39 4084 2 Status: File transfer successful, transferred 406 bytes in 1 second
+2010-05-02 11:33:39 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\junit-4.8.2.jar
+2010-05-02 11:33:39 4084 9 Status: File transfer successful, transferred 250 bytes in 1 second
+2010-05-02 11:33:39 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\JWNL
+2010-05-02 11:33:39 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ant.jar" "ant.jar"
+2010-05-02 11:33:39 4084 7 Error: File transfer failed
+2010-05-02 11:33:39 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ASL
+2010-05-02 11:33:39 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ASL" "ASL"
+2010-05-02 11:33:40 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jakarta-ant-optional.jar" "jakarta-ant-optional.jar"
+2010-05-02 11:33:40 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\.settings\org.eclipse.jdt.core.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/.settings/org.eclipse.jdt.core.prefs
+2010-05-02 11:33:40 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ASL => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/ASL
+2010-05-02 11:33:40 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\ant.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/ant.jar
+2010-05-02 11:33:40 4084 8 Status: File transfer successful, transferred 629 bytes in 1 second
+2010-05-02 11:33:40 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jwnl-1.3.3.jar
+2010-05-02 11:33:40 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 7 Status: File transfer successful, transferred 2,911 bytes in 1 second
+2010-05-02 11:33:40 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\LIBNOTES
+2010-05-02 11:33:40 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\LIBNOTES" "LIBNOTES"
+2010-05-02 11:33:40 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\junit-4.8.2.jar" "junit-4.8.2.jar"
+2010-05-02 11:33:40 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\JWNL" "JWNL"
+2010-05-02 11:33:40 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jakarta-ant-optional.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/jakarta-ant-optional.jar
+2010-05-02 11:33:40 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib"
+2010-05-02 11:33:40 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jwnl-1.3.3.jar" "jwnl-1.3.3.jar"
+2010-05-02 11:33:40 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\LIBNOTES => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/LIBNOTES
+2010-05-02 11:33:40 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\junit-4.8.2.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/junit-4.8.2.jar
+2010-05-02 11:33:40 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\JWNL => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/JWNL
+2010-05-02 11:33:41 4084 7 Status: File transfer successful, transferred 1,271 bytes in 1 second
+2010-05-02 11:33:41 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\maxent-2.5.2.jar
+2010-05-02 11:33:41 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\maxent-2.5.2.jar" "maxent-2.5.2.jar"
+2010-05-02 11:33:41 4084 9 Status: File transfer successful, transferred 1,585 bytes in 1 second
+2010-05-02 11:33:41 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\trove.jar
+2010-05-02 11:33:41 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\trove.jar" "trove.jar"
+2010-05-02 11:33:41 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\jwnl-1.3.3.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/jwnl-1.3.3.jar
+2010-05-02 11:33:41 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\maxent-2.5.2.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/maxent-2.5.2.jar
+2010-05-02 11:33:41 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\CaseStudy1\lib\trove.jar => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/CaseStudy1/lib/trove.jar
+2010-05-02 11:33:43 4084 7 Status: File transfer successful, transferred 61,440 bytes in 2 seconds
+2010-05-02 11:33:43 4084 7 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn/contexts'...
+2010-05-02 11:33:43 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:43 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn"
+2010-05-02 11:33:43 4084 7 Command: mkdir "contexts"
+2010-05-02 11:33:44 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.mylyn/contexts: OK
+2010-05-02 11:33:44 4084 7 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.debug.core'...
+2010-05-02 11:33:44 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:45 4084 7 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins: no such file or directory
+2010-05-02 11:33:45 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:45 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata"
+2010-05-02 11:33:45 4084 7 Command: mkdir ".plugins"
+2010-05-02 11:33:45 4084 8 Status: File transfer successful, transferred 163,840 bytes in 5 seconds
+2010-05-02 11:33:45 4084 8 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.debug.ui'...
+2010-05-02 11:33:45 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:45 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins: OK
+2010-05-02 11:33:45 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:46 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:46 4084 8 Command: mkdir "org.eclipse.debug.ui"
+2010-05-02 11:33:46 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:46 4084 7 Command: mkdir "org.eclipse.debug.core"
+2010-05-02 11:33:46 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.debug.ui: OK
+2010-05-02 11:33:46 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.epp.usagedata.recording\usagedata.csv
+2010-05-02 11:33:46 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording"
+2010-05-02 11:33:46 4084 2 Status: File transfer successful, transferred 237,344 bytes in 6 seconds
+2010-05-02 11:33:46 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1016517461.index
+2010-05-02 11:33:46 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:46 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.debug.core: OK
+2010-05-02 11:33:46 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1081541222.index
+2010-05-02 11:33:47 4084 8 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording: no such file or directory
+2010-05-02 11:33:47 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:47 4084 2 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core: no such file or directory
+2010-05-02 11:33:47 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:47 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:47 4084 8 Command: mkdir "org.eclipse.epp.usagedata.recording"
+2010-05-02 11:33:47 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:47 4084 2 Command: mkdir "org.eclipse.jdt.core"
+2010-05-02 11:33:47 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording: OK
+2010-05-02 11:33:47 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording"
+2010-05-02 11:33:48 4084 2 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core: OK
+2010-05-02 11:33:48 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:48 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording"
+2010-05-02 11:33:48 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:33:48 4084 8 Command: ls
+2010-05-02 11:33:48 4084 8 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording
+2010-05-02 11:33:48 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:48 4084 2 Status: Retrieving directory listing...
+2010-05-02 11:33:48 4084 2 Command: ls
+2010-05-02 11:33:48 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:48 4084 2 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core
+2010-05-02 11:33:48 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:48 4084 7 Status: Retrieving directory listing...
+2010-05-02 11:33:49 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.epp.usagedata.recording\usagedata.csv" "usagedata.csv"
+2010-05-02 11:33:49 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1016517461.index" "1016517461.index"
+2010-05-02 11:33:49 4084 7 Error: File transfer failed
+2010-05-02 11:33:49 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1081541222.index
+2010-05-02 11:33:49 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1081541222.index" "1081541222.index"
+2010-05-02 11:33:49 4084 3 Status: File transfer successful, transferred 626,688 bytes in 12 seconds
+2010-05-02 11:33:49 4084 3 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1375834677.index
+2010-05-02 11:33:49 4084 3 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:49 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.epp.usagedata.recording\usagedata.csv => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.epp.usagedata.recording/usagedata.csv
+2010-05-02 11:33:49 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1081541222.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/1081541222.index
+2010-05-02 11:33:49 4084 3 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:49 4084 3 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1375834677.index" "1375834677.index"
+2010-05-02 11:33:49 4084 9 Status: File transfer successful, transferred 360,448 bytes in 8 seconds
+2010-05-02 11:33:49 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1680983724.index
+2010-05-02 11:33:49 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:50 4084 3 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1375834677.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/1375834677.index
+2010-05-02 11:33:50 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:50 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1680983724.index" "1680983724.index"
+2010-05-02 11:33:50 4084 8 Status: File transfer successful, transferred 20,480 bytes in 1 second
+2010-05-02 11:33:50 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2227274090.index
+2010-05-02 11:33:50 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:50 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1016517461.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/1016517461.index
+2010-05-02 11:33:50 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:50 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2227274090.index" "2227274090.index"
+2010-05-02 11:33:50 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\1680983724.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/1680983724.index
+2010-05-02 11:33:50 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2227274090.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/2227274090.index
+2010-05-02 11:33:51 4084 8 Status: File transfer successful, transferred 25 bytes in 1 second
+2010-05-02 11:33:51 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2302313875.index
+2010-05-02 11:33:51 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2302313875.index" "2302313875.index"
+2010-05-02 11:33:51 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2302313875.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/2302313875.index
+2010-05-02 11:33:51 4084 7 Status: File transfer successful, transferred 106,496 bytes in 2 seconds
+2010-05-02 11:33:51 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\23113438.index
+2010-05-02 11:33:51 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\23113438.index" "23113438.index"
+2010-05-02 11:33:52 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\23113438.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/23113438.index
+2010-05-02 11:33:52 4084 8 Status: File transfer successful, transferred 25,725 bytes in 1 second
+2010-05-02 11:33:52 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2640313529.index
+2010-05-02 11:33:52 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2640313529.index" "2640313529.index"
+2010-05-02 11:33:52 4084 9 Status: File transfer successful, transferred 90,112 bytes in 2 seconds
+2010-05-02 11:33:52 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2793110136.index
+2010-05-02 11:33:52 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2793110136.index" "2793110136.index"
+2010-05-02 11:33:53 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2640313529.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/2640313529.index
+2010-05-02 11:33:53 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\2793110136.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/2793110136.index
+2010-05-02 11:33:53 4084 3 Status: File transfer successful, transferred 139,264 bytes in 4 seconds
+2010-05-02 11:33:53 4084 3 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3291739443.index
+2010-05-02 11:33:53 4084 3 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3291739443.index" "3291739443.index"
+2010-05-02 11:33:53 4084 3 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3291739443.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/3291739443.index
+2010-05-02 11:33:53 4084 8 Status: File transfer successful, transferred 12,288 bytes in 1 second
+2010-05-02 11:33:53 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3600839019.index
+2010-05-02 11:33:53 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3600839019.index" "3600839019.index"
+2010-05-02 11:33:54 4084 4 Status: File transfer successful, transferred 835,584 bytes in 17 seconds
+2010-05-02 11:33:54 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3833258467.index
+2010-05-02 11:33:54 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:54 4084 0 Status: File transfer successful, transferred 653,661 bytes in 14 seconds
+2010-05-02 11:33:54 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3870552059.index
+2010-05-02 11:33:54 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3600839019.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/3600839019.index
+2010-05-02 11:33:54 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:54 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3833258467.index" "3833258467.index"
+2010-05-02 11:33:54 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:54 4084 9 Status: File transfer successful, transferred 40,960 bytes in 2 seconds
+2010-05-02 11:33:54 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3897294617.index
+2010-05-02 11:33:54 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3897294617.index" "3897294617.index"
+2010-05-02 11:33:54 4084 7 Status: File transfer successful, transferred 81,920 bytes in 3 seconds
+2010-05-02 11:33:54 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4002172304.index
+2010-05-02 11:33:54 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4002172304.index" "4002172304.index"
+2010-05-02 11:33:54 4084 3 Status: File transfer successful, transferred 20,480 bytes in 1 second
+2010-05-02 11:33:54 4084 3 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\405887653.index
+2010-05-02 11:33:54 4084 3 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\405887653.index" "405887653.index"
+2010-05-02 11:33:54 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:54 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3870552059.index" "3870552059.index"
+2010-05-02 11:33:54 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3833258467.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/3833258467.index
+2010-05-02 11:33:54 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3897294617.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/3897294617.index
+2010-05-02 11:33:54 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4002172304.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/4002172304.index
+2010-05-02 11:33:54 4084 3 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\405887653.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/405887653.index
+2010-05-02 11:33:55 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\3870552059.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/3870552059.index
+2010-05-02 11:33:55 4084 6 Status: File transfer successful, transferred 716,139 bytes in 16 seconds
+2010-05-02 11:33:55 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4077199012.index
+2010-05-02 11:33:55 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:55 4084 8 Status: File transfer successful, transferred 32,768 bytes in 2 seconds
+2010-05-02 11:33:55 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps
+2010-05-02 11:33:55 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps" "externalLibsTimeStamps"
+2010-05-02 11:33:55 4084 2 Status: File transfer successful, transferred 237,568 bytes in 6 seconds
+2010-05-02 11:33:55 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+2010-05-02 11:33:55 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" "nonChainingJarsCache"
+2010-05-02 11:33:55 4084 9 Status: File transfer successful, transferred 4,219 bytes in 1 second
+2010-05-02 11:33:55 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt
+2010-05-02 11:33:55 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt" "savedIndexNames.txt"
+2010-05-02 11:33:55 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core"
+2010-05-02 11:33:55 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4077199012.index" "4077199012.index"
+2010-05-02 11:33:55 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+2010-05-02 11:33:55 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+2010-05-02 11:33:55 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+2010-05-02 11:33:55 4084 8 Status: File transfer successful, transferred 658 bytes in 1 second
+2010-05-02 11:33:55 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+2010-05-02 11:33:55 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" "variablesAndContainers.dat"
+2010-05-02 11:33:55 4084 2 Status: File transfer successful, transferred 823 bytes in 1 second
+2010-05-02 11:33:55 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.debug.ui\dialog_settings.xml
+2010-05-02 11:33:55 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui"
+2010-05-02 11:33:55 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\4077199012.index => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/4077199012.index
+2010-05-02 11:33:55 4084 9 Status: File transfer successful, transferred 390 bytes in 1 second
+2010-05-02 11:33:55 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml
+2010-05-02 11:33:55 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching"
+2010-05-02 11:33:56 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+2010-05-02 11:33:56 4084 2 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui: no such file or directory
+2010-05-02 11:33:56 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:56 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching: no such file or directory
+2010-05-02 11:33:56 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:56 4084 8 Status: File transfer successful, transferred 1,424 bytes in 1 second
+2010-05-02 11:33:56 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+2010-05-02 11:33:56 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:56 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:56 4084 2 Command: mkdir "org.eclipse.jdt.debug.ui"
+2010-05-02 11:33:56 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:56 4084 9 Command: mkdir "org.eclipse.jdt.launching"
+2010-05-02 11:33:57 4084 8 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui: no such file or directory
+2010-05-02 11:33:57 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:57 4084 2 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui: OK
+2010-05-02 11:33:57 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui"
+2010-05-02 11:33:57 4084 9 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching: OK
+2010-05-02 11:33:57 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching"
+2010-05-02 11:33:57 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:57 4084 8 Command: mkdir "org.eclipse.jdt.ui"
+2010-05-02 11:33:57 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui"
+2010-05-02 11:33:57 4084 2 Status: Retrieving directory listing...
+2010-05-02 11:33:57 4084 2 Command: ls
+2010-05-02 11:33:57 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching"
+2010-05-02 11:33:57 4084 9 Status: Retrieving directory listing...
+2010-05-02 11:33:57 4084 9 Command: ls
+2010-05-02 11:33:57 4084 2 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui
+2010-05-02 11:33:57 4084 9 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching
+2010-05-02 11:33:57 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui: OK
+2010-05-02 11:33:57 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 0 Status: File transfer successful, transferred 138,809 bytes in 4 seconds
+2010-05-02 11:33:58 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+2010-05-02 11:33:58 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:33:58 4084 8 Command: ls
+2010-05-02 11:33:58 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.debug.ui\dialog_settings.xml" "dialog_settings.xml"
+2010-05-02 11:33:58 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml" "libraryInfos.xml"
+2010-05-02 11:33:58 4084 6 Status: File transfer successful, transferred 98,304 bytes in 3 seconds
+2010-05-02 11:33:58 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+2010-05-02 11:33:58 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 8 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui
+2010-05-02 11:33:58 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 0 Status: Retrieving directory listing...
+2010-05-02 11:33:58 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.debug.ui\dialog_settings.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml
+2010-05-02 11:33:58 4084 7 Status: File transfer successful, transferred 175,523 bytes in 4 seconds
+2010-05-02 11:33:58 4084 7 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ltk.core.refactoring'...
+2010-05-02 11:33:58 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui"
+2010-05-02 11:33:58 4084 6 Status: Retrieving directory listing...
+2010-05-02 11:33:58 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+2010-05-02 11:33:58 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" "dialog_settings.xml"
+2010-05-02 11:33:58 4084 0 Error: File transfer failed
+2010-05-02 11:33:58 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+2010-05-02 11:33:58 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" "OpenTypeHistory.xml"
+2010-05-02 11:33:58 4084 6 Error: File transfer failed
+2010-05-02 11:33:58 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+2010-05-02 11:33:58 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" "QualifiedTypeNameHistory.xml"
+2010-05-02 11:33:58 4084 2 Status: File transfer successful, transferred 450 bytes in 1 second
+2010-05-02 11:33:58 4084 2 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.mylyn.bugzilla.core'...
+2010-05-02 11:33:58 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 9 Status: File transfer successful, transferred 1,669 bytes in 1 second
+2010-05-02 11:33:58 4084 9 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.team.cvs.core'...
+2010-05-02 11:33:58 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 7 Command: mkdir "org.eclipse.ltk.core.refactoring"
+2010-05-02 11:33:58 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+2010-05-02 11:33:58 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+2010-05-02 11:33:58 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+2010-05-02 11:33:58 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 2 Command: mkdir "org.eclipse.mylyn.bugzilla.core"
+2010-05-02 11:33:58 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 9 Command: mkdir "org.eclipse.team.cvs.core"
+2010-05-02 11:33:58 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ltk.core.refactoring: OK
+2010-05-02 11:33:58 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml
+2010-05-02 11:33:58 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide"
+2010-05-02 11:33:58 4084 0 Status: File transfer successful, transferred 76 bytes in 1 second
+2010-05-02 11:33:58 4084 0 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.intro'...
+2010-05-02 11:33:58 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:58 4084 6 Status: File transfer successful, transferred 85 bytes in 1 second
+2010-05-02 11:33:58 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+2010-05-02 11:33:58 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 2 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.mylyn.bugzilla.core: OK
+2010-05-02 11:33:59 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workbench.xml
+2010-05-02 11:33:59 4084 9 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.team.cvs.core: OK
+2010-05-02 11:33:59 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+2010-05-02 11:33:59 4084 4 Status: File transfer successful, transferred 245,760 bytes in 5 seconds
+2010-05-02 11:33:59 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\externalLibsTimeStamps
+2010-05-02 11:33:59 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:33:59 4084 7 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide: no such file or directory
+2010-05-02 11:33:59 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 0 Command: mkdir "org.eclipse.ui.intro"
+2010-05-02 11:33:59 4084 6 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench: no such file or directory
+2010-05-02 11:33:59 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 8 Status: File transfer successful, transferred 4,341 bytes in 1 second
+2010-05-02 11:33:59 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\variablesAndContainers.dat
+2010-05-02 11:33:59 4084 4 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core: no such file or directory
+2010-05-02 11:33:59 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 7 Command: mkdir "org.eclipse.ui.ide"
+2010-05-02 11:33:59 4084 0 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.intro: OK
+2010-05-02 11:33:59 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\OpenTypeHistory.xml
+2010-05-02 11:33:59 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui"
+2010-05-02 11:33:59 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 6 Command: mkdir "org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 4 Command: mkdir "org.eclipse.wst.jsdt.core"
+2010-05-02 11:33:59 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide: OK
+2010-05-02 11:33:59 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide"
+2010-05-02 11:33:59 4084 0 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui: no such file or directory
+2010-05-02 11:33:59 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 6 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench: OK
+2010-05-02 11:33:59 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 4 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core: OK
+2010-05-02 11:33:59 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:33:59 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide"
+2010-05-02 11:33:59 4084 7 Status: Retrieving directory listing...
+2010-05-02 11:33:59 4084 7 Command: ls
+2010-05-02 11:33:59 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 6 Status: Retrieving directory listing...
+2010-05-02 11:33:59 4084 6 Command: ls
+2010-05-02 11:33:59 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:33:59 4084 0 Command: mkdir "org.eclipse.wst.jsdt.ui"
+2010-05-02 11:33:59 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:33:59 4084 7 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide
+2010-05-02 11:33:59 4084 6 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench
+2010-05-02 11:33:59 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:33:59 4084 4 Status: Retrieving directory listing...
+2010-05-02 11:33:59 4084 4 Command: ls
+2010-05-02 11:33:59 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:00 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:34:00 4084 9 Status: Retrieving directory listing...
+2010-05-02 11:34:00 4084 0 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui: OK
+2010-05-02 11:34:00 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui"
+2010-05-02 11:34:00 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench"
+2010-05-02 11:34:00 4084 2 Status: Retrieving directory listing...
+2010-05-02 11:34:00 4084 4 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core
+2010-05-02 11:34:00 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" "dialog_settings.xml"
+2010-05-02 11:34:00 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:00 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:34:00 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" "dialog_settings.xml"
+2010-05-02 11:34:00 4084 9 Error: File transfer failed
+2010-05-02 11:34:00 4084 2 Error: File transfer failed
+2010-05-02 11:34:00 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+2010-05-02 11:34:00 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" "workingsets.xml"
+2010-05-02 11:34:00 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workbench.xml
+2010-05-02 11:34:00 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workbench.xml" "workbench.xml"
+2010-05-02 11:34:00 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui"
+2010-05-02 11:34:00 4084 0 Status: Retrieving directory listing...
+2010-05-02 11:34:00 4084 0 Command: ls
+2010-05-02 11:34:00 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\externalLibsTimeStamps" "externalLibsTimeStamps"
+2010-05-02 11:34:00 4084 8 Error: File transfer failed
+2010-05-02 11:34:00 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\variablesAndContainers.dat
+2010-05-02 11:34:00 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\variablesAndContainers.dat" "variablesAndContainers.dat"
+2010-05-02 11:34:00 4084 0 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui
+2010-05-02 11:34:00 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+2010-05-02 11:34:00 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+2010-05-02 11:34:00 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+2010-05-02 11:34:00 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.ui.workbench\workbench.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml
+2010-05-02 11:34:00 4084 7 Status: File transfer successful, transferred 318 bytes in 1 second
+2010-05-02 11:34:00 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\QualifiedTypeNameHistory.xml
+2010-05-02 11:34:00 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui"
+2010-05-02 11:34:00 4084 9 Status: File transfer successful, transferred 257 bytes in 1 second
+2010-05-02 11:34:00 4084 9 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.history'...
+2010-05-02 11:34:00 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources"
+2010-05-02 11:34:00 4084 6 Status: File transfer successful, transferred 236 bytes in 1 second
+2010-05-02 11:34:00 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree
+2010-05-02 11:34:00 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root"
+2010-05-02 11:34:00 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\externalLibsTimeStamps => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
+2010-05-02 11:34:00 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\variablesAndContainers.dat => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat
+2010-05-02 11:34:00 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\OpenTypeHistory.xml" "OpenTypeHistory.xml"
+2010-05-02 11:34:00 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui"
+2010-05-02 11:34:00 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\QualifiedTypeNameHistory.xml" "QualifiedTypeNameHistory.xml"
+2010-05-02 11:34:00 4084 4 Status: File transfer successful, transferred 492 bytes in 1 second
+2010-05-02 11:34:00 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+2010-05-02 11:34:00 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable"
+2010-05-02 11:34:00 4084 8 Status: File transfer successful, transferred 12 bytes in 1 second
+2010-05-02 11:34:00 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+2010-05-02 11:34:00 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:00 4084 6 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root: no such file or directory
+2010-05-02 11:34:00 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources"
+2010-05-02 11:34:00 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: no such file or directory
+2010-05-02 11:34:00 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:00 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\OpenTypeHistory.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml
+2010-05-02 11:34:00 4084 4 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable: no such file or directory
+2010-05-02 11:34:00 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources"
+2010-05-02 11:34:00 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.ui\QualifiedTypeNameHistory.xml => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml
+2010-05-02 11:34:00 4084 8 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings: no such file or directory
+2010-05-02 11:34:00 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime"
+2010-05-02 11:34:01 4084 6 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: no such file or directory
+2010-05-02 11:34:01 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 0 Status: File transfer successful, transferred 76 bytes in 1 second
+2010-05-02 11:34:01 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+2010-05-02 11:34:01 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 9 Command: mkdir "org.eclipse.core.resources"
+2010-05-02 11:34:01 4084 2 Status: File transfer successful, transferred 26,708 bytes in 1 second
+2010-05-02 11:34:01 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.recording.prefs
+2010-05-02 11:34:01 4084 7 Status: File transfer successful, transferred 85 bytes in 1 second
+2010-05-02 11:34:01 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs
+2010-05-02 11:34:01 4084 4 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: no such file or directory
+2010-05-02 11:34:01 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 8 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime: no such file or directory
+2010-05-02 11:34:01 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 6 Command: mkdir "org.eclipse.core.resources"
+2010-05-02 11:34:01 4084 9 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: OK
+2010-05-02 11:34:01 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources"
+2010-05-02 11:34:01 4084 6 Error: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: failure
+2010-05-02 11:34:01 4084 6 Command: mkdir "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root"
+2010-05-02 11:34:01 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 4 Command: mkdir "org.eclipse.core.resources"
+2010-05-02 11:34:01 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:01 4084 8 Command: mkdir "org.eclipse.core.runtime"
+2010-05-02 11:34:01 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources"
+2010-05-02 11:34:01 4084 9 Command: mkdir ".history"
+2010-05-02 11:34:01 4084 4 Error: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources: failure
+2010-05-02 11:34:01 4084 4 Command: mkdir "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable"
+2010-05-02 11:34:01 4084 6 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root: OK
+2010-05-02 11:34:01 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root"
+2010-05-02 11:34:01 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime: OK
+2010-05-02 11:34:01 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime"
+2010-05-02 11:34:01 4084 9 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.history: OK
+2010-05-02 11:34:01 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs
+2010-05-02 11:34:02 4084 4 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable: OK
+2010-05-02 11:34:02 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable"
+2010-05-02 11:34:02 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root"
+2010-05-02 11:34:02 4084 6 Status: Retrieving directory listing...
+2010-05-02 11:34:02 4084 6 Command: ls
+2010-05-02 11:34:02 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime"
+2010-05-02 11:34:02 4084 8 Command: mkdir ".settings"
+2010-05-02 11:34:02 4084 6 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root
+2010-05-02 11:34:02 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable"
+2010-05-02 11:34:02 4084 4 Status: Retrieving directory listing...
+2010-05-02 11:34:02 4084 4 Command: ls
+2010-05-02 11:34:02 4084 4 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable
+2010-05-02 11:34:02 4084 8 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings: OK
+2010-05-02 11:34:02 4084 8 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree" "1.tree"
+2010-05-02 11:34:02 4084 8 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 8 Status: Retrieving directory listing...
+2010-05-02 11:34:02 4084 8 Command: ls
+2010-05-02 11:34:02 4084 0 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:02 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" "org.eclipse.core.resources"
+2010-05-02 11:34:02 4084 8 Status: Listing directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings
+2010-05-02 11:34:02 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree
+2010-05-02 11:34:03 4084 0 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 0 Status: Retrieving directory listing...
+2010-05-02 11:34:03 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+2010-05-02 11:34:03 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" "org.eclipse.core.resources.prefs"
+2010-05-02 11:34:03 4084 0 Error: File transfer failed
+2010-05-02 11:34:03 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+2010-05-02 11:34:03 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" "org.eclipse.debug.ui.prefs"
+2010-05-02 11:34:03 4084 4 Status: File transfer successful, transferred 1,232 bytes in 1 second
+2010-05-02 11:34:03 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+2010-05-02 11:34:03 4084 4 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" "org.eclipse.jdt.core.prefs"
+2010-05-02 11:34:03 4084 9 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs" "org.eclipse.jdt.launching.prefs"
+2010-05-02 11:34:03 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.recording.prefs" "org.eclipse.epp.usagedata.recording.prefs"
+2010-05-02 11:34:03 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+2010-05-02 11:34:03 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+2010-05-02 11:34:03 4084 4 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" "org.eclipse.jdt.ui.prefs"
+2010-05-02 11:34:03 4084 6 Status: File transfer successful, transferred 28,672 bytes in 1 second
+2010-05-02 11:34:03 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jst.j2ee.webservice.ui.prefs
+2010-05-02 11:34:03 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:03 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+2010-05-02 11:34:03 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+2010-05-02 11:34:04 4084 0 Status: File transfer successful, transferred 232 bytes in 1 second
+2010-05-02 11:34:04 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
+2010-05-02 11:34:04 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs" "org.eclipse.mylyn.context.core.prefs"
+2010-05-02 11:34:04 4084 8 Status: File transfer successful, transferred 73 bytes in 1 second
+2010-05-02 11:34:04 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.recording.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
+2010-05-02 11:34:04 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs
+2010-05-02 11:34:04 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs" "org.eclipse.team.cvs.ui.prefs"
+2010-05-02 11:34:04 4084 9 Status: File transfer successful, transferred 659 bytes in 1 second
+2010-05-02 11:34:04 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs
+2010-05-02 11:34:04 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" "org.eclipse.team.ui.prefs"
+2010-05-02 11:34:04 4084 7 Status: File transfer successful, transferred 696 bytes in 1 second
+2010-05-02 11:34:04 4084 7 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs
+2010-05-02 11:34:04 4084 7 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" "org.eclipse.ui.editors.prefs"
+2010-05-02 11:34:04 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings"
+2010-05-02 11:34:04 4084 6 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jst.j2ee.webservice.ui.prefs" "org.eclipse.jst.j2ee.webservice.ui.prefs"
+2010-05-02 11:34:04 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+2010-05-02 11:34:04 4084 2 Status: File transfer successful, transferred 125 bytes in 1 second
+2010-05-02 11:34:04 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+2010-05-02 11:34:04 4084 2 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" "org.eclipse.ui.ide.prefs"
+2010-05-02 11:34:04 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs
+2010-05-02 11:34:04 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs
+2010-05-02 11:34:04 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs
+2010-05-02 11:34:04 4084 4 Status: File transfer successful, transferred 641 bytes in 1 second
+2010-05-02 11:34:04 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+2010-05-02 11:34:04 4084 4 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" "org.eclipse.ui.prefs"
+2010-05-02 11:34:04 4084 7 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs
+2010-05-02 11:34:04 4084 6 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jst.j2ee.webservice.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs
+2010-05-02 11:34:04 4084 0 Status: File transfer successful, transferred 93 bytes in 1 second
+2010-05-02 11:34:04 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs
+2010-05-02 11:34:04 4084 0 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs" "org.eclipse.ui.workbench.prefs"
+2010-05-02 11:34:04 4084 2 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+2010-05-02 11:34:04 4084 8 Status: File transfer successful, transferred 88 bytes in 1 second
+2010-05-02 11:34:04 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.jsdt.ui.prefs
+2010-05-02 11:34:04 4084 8 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.jsdt.ui.prefs" "org.eclipse.wst.jsdt.ui.prefs"
+2010-05-02 11:34:04 4084 9 Status: File transfer successful, transferred 100 bytes in 1 second
+2010-05-02 11:34:04 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.ws.service.policy.prefs
+2010-05-02 11:34:04 4084 9 Command: put "E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.ws.service.policy.prefs" "org.eclipse.wst.ws.service.policy.prefs"
+2010-05-02 11:34:04 4084 7 Status: File transfer successful, transferred 100 bytes in 1 second
+2010-05-02 11:34:04 4084 7 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.junit/history'...
+2010-05-02 11:34:04 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.junit"
+2010-05-02 11:34:04 4084 6 Status: File transfer successful, transferred 89 bytes in 1 second
+2010-05-02 11:34:04 4084 6 Status: Creating directory '/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes'...
+2010-05-02 11:34:04 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:04 4084 4 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+2010-05-02 11:34:04 4084 2 Status: File transfer successful, transferred 189 bytes in 1 second
+2010-05-02 11:34:04 4084 2 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\libraries\baseBrowserLibrary.js
+2010-05-02 11:34:04 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries"
+2010-05-02 11:34:04 4084 8 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.jsdt.ui.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs
+2010-05-02 11:34:04 4084 0 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs
+2010-05-02 11:34:05 4084 7 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.junit: no such file or directory
+2010-05-02 11:34:05 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:05 4084 9 Status: local:E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.ws.service.policy.prefs => remote:/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs
+2010-05-02 11:34:05 4084 4 Status: File transfer successful, transferred 79 bytes in 1 second
+2010-05-02 11:34:05 4084 4 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\libraries\browserWindow.js
+2010-05-02 11:34:05 4084 6 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:05 4084 6 Command: mkdir "indexes"
+2010-05-02 11:34:05 4084 8 Status: File transfer successful, transferred 530 bytes in 1 second
+2010-05-02 11:34:05 4084 8 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\libraries\system.js
+2010-05-02 11:34:05 4084 2 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries: no such file or directory
+2010-05-02 11:34:05 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:05 4084 0 Status: File transfer successful, transferred 2,573 bytes in 1 second
+2010-05-02 11:34:05 4084 0 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\libraries\xhr.js
+2010-05-02 11:34:05 4084 9 Status: File transfer successful, transferred 316 bytes in 1 second
+2010-05-02 11:34:05 4084 9 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.projects\CaseStudy1\.markers
+2010-05-02 11:34:05 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.projects/CaseStudy1"
+2010-05-02 11:34:05 4084 7 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins"
+2010-05-02 11:34:05 4084 7 Command: mkdir "org.eclipse.jdt.junit"
+2010-05-02 11:34:05 4084 6 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes: OK
+2010-05-02 11:34:05 4084 6 Status: Starting upload of E:\MyProjects\MyResearch\LogMining\LogStudy\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+2010-05-02 11:34:05 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes"
+2010-05-02 11:34:05 4084 2 Response: New directory is: "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core"
+2010-05-02 11:34:05 4084 2 Command: mkdir "libraries"
+2010-05-02 11:34:05 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.projects/CaseStudy1: no such file or directory
+2010-05-02 11:34:05 4084 9 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.projects"
+2010-05-02 11:34:05 4084 7 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.junit: OK
+2010-05-02 11:34:05 4084 7 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.jdt.junit"
+2010-05-02 11:34:05 4084 6 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes: no such file or directory
+2010-05-02 11:34:05 4084 6 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.root"
+2010-05-02 11:34:05 4084 2 Response: mkdir /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries: OK
+2010-05-02 11:34:05 4084 2 Command: cd "/disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries"
+2010-05-02 11:34:05 4084 9 Error: Directory /disk/storage006/users/ltang002/MyFiles/MyResearch/LogMining/LogStudy/.metadata/.plugins/org.eclipse.core.resources/.projects: no such file or directory

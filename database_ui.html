@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Liang Tang's Readings</title>
+<style type="text/css">
+    .SectionFirstLetterStyle
+    {
+		font-family: "Times New Roman",Times,serif;		
+        font-weight: normal;
+        font-size: 200%;
+    }
+	.SectionStyle
+	{
+		font-family: "Times New Roman",Times;		
+        font-weight: bold;
+        font-size: 100%;
+	}
+	.SubSectionStyle
+	{
+		font-family: "Times New Roman",Times,serif;		
+        font-weight: normal;
+        font-size: 100%;
+	}
+    .commentStyle
+    {
+        font-family: Times,"Times New Roman",serif
+		font-size: 100%; 
+		font-weight: normal;
+		font-style: italic;
+    }
+	.normalStyle
+	{
+		font-family: "Times New Roman",Times,serif;	 
+		font-size: 100%; 
+		font-weight: normal;
+	}
+	.segmentationLineStyle
+	{
+		color:#970F00;
+		font-family:"Times New Roman",Times,serif;
+		font-size:100%;
+	}	
+</style>
+</head><body>
+    <table class="normalStyle">
+        <tbody>
+			<tr>
+				<td class="SectionStyle">
+					<i>Readings About Database User Interface:</i>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p class="segmentationLineStyle" align="left">________________________________________________________</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="SectionStyle">
+					Jagadish's Database Research Group
+				</td>
+			</tr>
+			<tr>
+				<td class="normalStyle">
+					<ul>
+						<li style="margin-bottom: 12px;">
+							Arnab Nandi, H. V. Jagadish:
+							<a href="http://www.eecs.umich.edu/db/files/p219-nandi.pdf">Effective Phrase Prediction<a>
+							In <i>VLDB Conference 2007.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment:</b> This paper investigate the problem of autocompletion of user input. I don't know why it is submitted in 
+							a database conference. But Prof. Jagadish categories this paper into query autocompletion. The novelty of this 
+							paper is to autocomplete a "phrase" (multi-words), not just a single word. This paper emphasized the efficiency 
+							of this autocompletion should be very high, so it develops a suffix-tree to do indexing. I didn't read this paper 
+							in detail, since I don't think this paper is very related to database's query. 
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Magesh Jayapandian, H. V. Jagadish:
+							<a href="http://www.eecs.umich.edu/db/files/vldb08.pdf">Automated Creation of a Forms-based Database Query Interface<a>
+							In <i>VLDB Conference 2008.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment:</b> This paper proposed a method to generate the query form from the database automatically. 
+							The scenario is that current websites' query forms cannot be satisfied by users' requirements. They develop a method 
+							to generate the query forms which can cover more requests of users. The basic idea is to find out the important 
+							attributes, and put them into a query form. The importance of attributes are considered as the probabilty of being queried.
+							The measurement of the importance is similar to PageRank. It is computed from the schema graph and data records 
+							in tables.
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Magesh Jayapandian, H. V. Jagadish:
+							<a href="http://portal.acm.org/citation.cfm?id=1608742">Automating the Design and Construction of Query Forms<a>
+							In <i>TKDE</i>, vol. 21, no.10, Oct. 2009<br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment:</b> This paper proposed a method to generate the query form from the database query logs. One of this paper's
+							contributions is formalization query form's structure. So that this paper likes a academic research
+							paper not just an engineering report. Another contribution is using clustering algorithm to cluster the queries in the logs.
+							The similarity of two queries is determined by how many data instances are the same of the query results. The query form is
+							generated from the medoid queries of each cluster. 
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Magesh Jayapandian, H. V. Jagadish:
+							<a href="http://www.eecs.umich.edu/db/files/edbt08.pdf">Expressive Query Specification through Form Customization<a>
+							In <i>EDBT Conference 2008.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment:</b> This paper proposed a method to allow users to modify the query forms. Traditional query forms of websites
+							are static, which may not be satisfied by users. The paper's idea is to let users to customize the query form. The authors 
+							give a formalization of the query form's construction. That formalization is also used in their another paper 
+							"Automating the Design and Construction of Query Forms" published in TKDE in 2009. 
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Bin Liu, H. V. Jagadish:
+							<a href="http://www.vldb.org/pvldb/2/vldb09-821.pdf">Using Trees to Depict a Forest<a>
+							In <i>VLDB Conference 2009.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment:</b> This paper proposed a way to display the query results in database. They use the k-medoid clustering to 
+							cluster the query results, and only show the medoids of data records to represent each cluster. And they also provide 
+							"zoom in" operation for users to click in, to see the detail results of each cluster. They call the "zoom in" operation 
+							is just the query refinement. In addition, in order to improve the performance of finding k medoids, they bring in a 
+							"cover-tree" for indexing the data. But the "cover-tree" was proposed in previous literatures.
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Arnab Nandi, H. V. Jagadish:
+							<a href="http://arxiv.org/ftp/arxiv/papers/0909/0909.1765.pdf">Qunits: queried units in database search<a>
+							In <i>CIDR Conference 2009.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment(Haven't Reading):</b> 
+							</div>
+						</li>
+					</ul>
+				</td>
+            </tr>
+			<tr>
+				<td class="SectionStyle">
+					Other Groups
+				</td>
+			</tr>
+			<tr>
+				<td class="normalStyle">
+					<ul>
+						<li style="margin-bottom: 12px;">
+							Nikos Sarkas, Nilesh Bansal, Gautam Das, Nick Koudas:
+							<a href="http://ranger.uta.edu/~gdas/websitepages/preprints-papers/measure-driven.pdf">Measure-driven Keyword-Query Expansion<a>
+							In <i>VLDB Conference 2009.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment(During reading):</b> Their problems are from information retrieval. The query is the keywords search in IR, not the 
+							database's query. The first 3 sections is the introduction of the motivation and challenges of query refinement. 
+							The query refinement is the expansion of the query keyword set with additional keywords. The 
+							purpose is to help the user to search more useful and meaningful documents. The authors defined three objective 
+							functions to quantify the top-K expansions, since there are a lot of possible expansions there. So the rest of 
+							this paper is introducing their algorithms to solve the problem of finding the top-K expansions. This paper's 
+							application scenario is searching some website's product reviews.
+							</div>
+						</li>
+						<li style="margin-bottom: 12px;">
+							Partha Pratim Talukdar, Marie Jacob, Muhammad Salman Mehmood, Koby Crammer, Zachary G. Ives, Fernando Pereira, Sudipto Guha:
+							<a href="http://www.cis.upenn.edu/~zives/research/kbdi.pdf">Learning to Create Data-Integrating Queries<a>
+							In <i>VLDB Conference 2008.</i><br>
+							<div class="commentStyle">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<b>Comment(During reading):</b> The motivation of this paper is that current database has complex schema and hundreds of tables. 
+							Non-expert users can hardly to explore the data in such database. Web query forms are static, which may be able to 
+							handle users' requests. This paper develops a query system called "The Q System". This system combines the keywords
+							search with relation query together. I haven't read through this paper. I guess, the idea is, this system provides a keywords 
+							search function to find matched data attributes, and then use the matched attributes to construct a query template.
+							The query template can be considered as the query form. "The Q System" has been used by other science deparments, 
+							such as chemistry, bioinformatics. The authors said their database has more than 300 tables. Those chemists and 
+							biologists can only query the database by predefined query forms. However, the query forms are static, cannot 
+							satisfy all requirements of them. I think this scenario strongly supports their research works.
+							</div>
+						</li>
+					<ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p class="segmentationLineStyle" align="left">________________________________________________________</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="normalStyle">
+					<i>Updated by Liang Tang, at 11/17/2009</i>
+				</td>
+			</tr>
+			<tr>
+				<td class="normalStyle">
+					<a href="index.html">Return to main page</a>
+				</td>
+			</tr>
+        </tbody>
+    </table>
+</body>
+</html>
