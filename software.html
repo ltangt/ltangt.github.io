@@ -1,9 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="cache-control" content="max-age=0" />
 <meta http-equiv="cache-control" content="no-cache" />
@@ -11,81 +7,10 @@
 <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
 <meta http-equiv="pragma" content="no-cache" />
 <title>Liang Tang's Software</title>
-<style type="text/css">
-    .GeorgiaBoldStyle
-    {
-        font-family: georgia;
-        font-weight: 900;
-        font-size: small;
-    }
-    .SectionFirstLetterStyle
-    {
-		font-family: "Times New Roman",Times,serif;		
-        font-weight: normal;
-        font-size: 36px;
-    }
-	.SectionStyle
-	{
-		font-family: "Times New Roman",Times,serif;		
-        font-weight: normal;
-        font-size: 24px;
-	}
-	.SubSectionStyle
-	{
-		font-family: "Times New Roman",Times,serif;		
-        font-weight: normal;
-        font-size: 18px;
-	}
-    .GeorgiaStyle
-    {
-        font-family: georgia;
-    }
-    .GeorgiaSmallStyle
-    {
-        font-family: georgia;
-        font-weight: normal;
-        font-size: small;
-    }
-    .CourierStyle
-    {
-        font-family: 'Courier New' , Courier, monospace;
-        font-weight: bold;
-        font-size: 20px;
-        font-family: sans-serif;
-        font-weight: normal;
-    }
-    .contextStyle
-    {
-        font-size: medium;
-        font-family: sans-serif;
-        font-family: times new roman;
-        font-weight: normal;
-    }
-	.normalStyle
-	{
-		font-family: "Times New Roman", Times, serif; 
-		font-size: 18px; 
-		font-weight: normal;
-	}
-	.nameStyle 
-	{
-		font-size: 36px;
-		font-family: "Times New Roman", Times, serif;
-		color: #000000;
-	}
-	.segmentationLineStyle
-	{
-		color:#970F00;
-		font-family:"Times New Roman",Times,serif;
-		font-size:16px;
-	}
-	#publications li
-	{
-		margin-bottom: 20px;
-	}
-</style>
-<script type="text/javascript">
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link href="default.css" rel="stylesheet" type="text/css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script type="text/javascript"> 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-31344938-1']);
   _gaq.push(['_trackPageview']);
@@ -95,103 +20,85 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  
-  var _wt_account = "liangtang_homepage";
-  (function() {
-	var st = document.createElement('script');
-	st.type = 'text/javascript';
-	st.async = true;
-	st.src =  'http://23.23.192.51/WebTracker/js/wt.js';
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(st, s);
-  })();
 
+  $(document).ready(function(){
+    $("#sidebar").load("sidebar.html"); 
+    $("#menubar").load("menubar.html");
+  });
 </script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=EqLK&d=aW-Ibtl_ULlEANHeGkhzHgLi47zYc1RXw93mD4hDDtU"></script>
 </head><body>
-    <table style="width: 75%;" class="normalStyle">
-        <tbody>
-			 <tr>                
-				<td>
-				<p>Welcome to Liang Tang's Homepage</p>
-				</td>
-            </tr>
-        </tbody>
-    </table>
-	<p></p><p></p><p></p><p></p>
-	<center>
-		<table>
-			<tbody>
-				<tr class="CourierStyle">
-					<td align="center" valign="top" width="140"> <a href="index.html">Home</a></td>
-					<td align="center" valign="top" width="140"> <a href="publication.html">Publication</a></td>
-					<td align="center" valign="top" width="220"> <a href="experience.html">Experience</a></td>
-					<td align="center" valign="top" width="140"> <a href="software.html">Software|website</a></td>
-					<td align="center" valign="top" width="140"> <a href="links.html">Links</a></td>
+    <div id="wrapper">
+        <div id="page">
+        	<p></p><p></p><p></p><p></p>
+			<center id="menubar"></center>
+			<hr>
+		    <p></p><p></p>
+				<table style="width: 100%;" align="center">
+				<tbody>
+		        <tr>
+		            <td class="title" id="Software">
+						<i class="fa fa-lightbulb-o"></i> Software|website
+		            </td>
+		        </tr>
+				<tr>
+		            <td>
+						<p></p>
+						<ul>
+						    <!-- <li><a href="http://www.uslunchbox.com/datasetsearch/home.html">Dataset Search Engine<a></br>
+							   This search engine is for searching the data sets for data mining and machine learning researches. It collects the data sets from research labs, KDD Cup competitions, UCI data respositories and so on.
+							   It helps the students and researchers to find the suitable data sets for their experiments and work.
+							</li> -->
+							</br>
+							<li><a href="hashtree/HashTree.java">Hash Tree<a></br>
+								The hash tree is used to efficiently do the subset testing in frequent itemset mining. The problem is that, we have lots of sets A_1,..., A_n, now given another set B, what are the subsets in A_1,...,A_n which are contained by B. The Java code is <a href="hashtree/HashTree.java">HashTree.java</a>, and a simple unit test is <a href="hashtree/HashTreeTest.java">HashTreeTest.java</a>
+							</li>
+							</br>
+							<li><a href="http://www.uslunchbox.com">USLUNCHBOX.COM<a></br>
+								I am the lead developer of the website of Chinese food online ordering, <a href="http://www.uslunchbox.com">USLUNCHBOX</a>. It delivers decent Chinese foods for FIU students. This website is developed based on the <a href="http://www.jquery.com">jQuery</a> and <a href="http://java.sun.com/j2ee/tutorial/1_3-fcs/doc/Servlets.html">Java Servlet</a> framework. 
+								<a href="http://www.jquery.com">jQuery</a> is the best open-source software I used. <p>
+								<strong>In 2013.11, there were over 350 users and 5 restaurants in USLUNCHBOX.COM, but it was shutdown when I left Miami in 2014</strong>.
+							</li>
+							</br>
+							<li><a href="https://github.com/ltangt/tlbasic">TLBasic</a></br>
+								It implements a simple complier and runtime environment for the <a href="http://en.wikipedia.org/wiki/BASIC">Basic</a> programming language. The complier translates the Basic programs into bytecode files, and the runtime environment executes the bytecode files. 
+								This project was written by <a href="http://en.wikipedia.org/wiki/C_(programming_language)">pure C</a> when I was a undergraduate student. It was <a href="http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620724">just for fun</a>. 
+								All source codes can be downloaded<a href="https://github.com/ltangt/tlbasic">here</a>.
+							</li>
+							</br>
+							<li><a href="https://github.com/ltangt/hadoopproxy">HadoopProxy</a></br>
+								This project is to assist normal users who are not familiar with <a href="http://hadoop.apache.org/">hadoop</a> to utilize an existing hadoop environment to run parallel jobs. 
+								The simple idea is to make the existing hadoop enviroment be a <a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/pools.html">thread pool</a>.
+								The user does not need to know how to write map/reduce function or how to submit a hadoop job. The proxy is a container of threads. 
+								The user only needs to insert his(or her) created threads into the container and invoke the execution function. 
+								Then, the proxy will automatically send these threads to the hadoop master server and transform them into map/reduce functions.
+							</li>
+							</br>
+							<li><a href="https://github.com/ltangt/freegep">FreeGEP</a></br>
+								Gene Expression Programming is a type of Generic Algorithm. This project is to provide a free tool using Gene Expression Programming Algorithm to discover the functions or rules from large datasets. The typical usage is mining complex or non-linear regression functions to predict the target values.To see about the GEP Algorithm, please visit this website: http://www.gene-expression-programming.com/. <p>
+								freeGEP is simple python implementation of the GEP algorithm. It is easy to use and also allow people easily plugin their own methods or gene operators into the source code of freeGEP to build their own GEP algorithm.
+							</li>
+						</ul>
+		            </td>
+		        </tr>
+				<tr>
+		            <td>
+						<p class="segmentationLineStyle" align="left">________________________________________________________</p>
+		                <p>
+		                </p>
+		            </td>
+		        </tr>				
+				<tr>
+					<td><span>Last Updated: 2016-04-10 </span></td>
 				</tr>
-			</tbody>
-		</table>
-	</center>
-	<hr>
-    <p></p><p></p>
-		<table style="width: 80%;" class="GeorgiaBoldStyle" align="center">
-		<tbody>
-        <tr>
-            <td class="SectionStyle" id="Software">
-				<span class="SectionFirstLetterStyle">S</span>oftware|website
-            </td>
-        </tr>
-		<tr>
-            <td class="normalStyle">
-				<p></p>
-				<ul>
-				    <li><a href="http://www.uslunchbox.com/datasetsearch/home.html">Dataset Search Engine<a></br>
-					   This search engine is for searching the data sets for data mining and machine learning researches. It collects the data sets from research labs, KDD Cup competitions, UCI data respositories and so on.
-					   It helps the students and researchers to find the suitable data sets for their experiments and work.
-					</li>
-					</br>
-					<li><a href="hashtree/HashTree.java">Hash Tree<a></br>
-						The hash tree is used to efficiently do the subset testing in frequent itemset mining. The problem is that, we have lots of sets A_1,..., A_n, now given another set B, what are the subsets in A_1,...,A_n which are contained by B. The Java code is <a href="hashtree/HashTree.java">HashTree.java</a>, and a simple unit test is <a href="hashtree/HashTreeTest.java">HashTreeTest.java</a>
-					</li>
-					</br>
-					<li><a href="http://www.uslunchbox.com">USLUNCHBOX.COM<a></br>
-						I am the lead developer of the website of Chinese food online ordering, <a href="http://www.uslunchbox.com">USLUNCHBOX</a>. It delivers decent Chinese foods for FIU students. This website is developed based on the <a href="http://www.jquery.com">jQuery</a> and <a href="http://java.sun.com/j2ee/tutorial/1_3-fcs/doc/Servlets.html">Java Servlet</a> framework. 
-						<a href="http://www.jquery.com">jQuery</a> is the best open-source software I used. <p>
-						<strong>Until 2013.11, there are over 350 users and 5 restaurants in USLUNCHBOX.COM</strong>.
-					</li>
-					</br>
-					<li><a href="tlbasic/Basic.2006.8.13.beta.0.8.3.zip">TLBasic</a></br>
-						It implements a simple complier and runtime environment for the <a href="http://en.wikipedia.org/wiki/BASIC">Basic</a> programming language. The complier translates the Basic programs into bytecode files, and the runtime environment executes the bytecode files. 
-						This project was written by <a href="http://en.wikipedia.org/wiki/C_(programming_language)">pure C</a> when I was a undergraduate student. It was <a href="http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620724">just for fun</a>. 
-						All source codes can be downloaded <a href="tlbasic/Basic.2006.8.13.beta.0.8.3.zip">here</a>.
-					</li>
-					</br>
-					<li><a href="http://hadoopproxy.googlecode.com">HadoopProxy</a></br>
-						This project is to assist normal users who are not familiar with <a href="http://hadoop.apache.org/">hadoop</a> to utilize an existing hadoop environment to run parallel jobs. 
-						The simple idea is to make the existing hadoop enviroment be a <a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/pools.html">thread pool</a>.
-						The user does not need to know how to write map/reduce function or how to submit a hadoop job. The proxy is a container of threads. 
-						The user only needs to insert his(or her) created threads into the container and invoke the execution function. 
-						Then, the proxy will automatically send these threads to the hadoop master server and transform them into map/reduce functions.
-					</li>
-					</br>
-					<li><a href="https://code.google.com/p/freegep/">FreeGEP</a></br>
-						Gene Expression Programming is a type of Generic Algorithm. This project is to provide a free tool using Gene Expression Programming Algorithm to discover the functions or rules from large datasets. The typical usage is mining complex or non-linear regression functions to predict the target values.To see about the GEP Algorithm, please visit this website: http://www.gene-expression-programming.com/. <p>
-						freeGEP is simple python implementation of the GEP algorithm. It is easy to use and also allow people easily plugin their own methods or gene operators into the source code of freeGEP to build their own GEP algorithm.
-					</li>
-				</ul>
-            </td>
-        </tr>
-		<tr>
-            <td>
-				<p class="segmentationLineStyle" align="left">________________________________________________________</p>
-                <p>
-                </p>
-            </td>
-        </tr>
-		<tr>
-			<td><a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.cs.fiu.edu/~ltang002" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.cs.fiu.edu/~ltang002" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" /></a></td>
-		</tr>
-		<tr>
-			<td><span class="normalStyle">Last Updated: 2013-04-15 </span></td>
-		</tr>
-    </tbody></table>
+		    </tbody></table>
+		</div>
+    <!-- end page -->
+
+    <!-- start sidebar -->
+    <div id="sidebar"></div>
+    <!-- end of sidebar -->
+
+	</div> 
+	<!-- end of wrapper -->    
 </body></html>

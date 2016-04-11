@@ -1,0 +1,127 @@
+body {
+  font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #ffffff;
+}
+/*
+    .SectionFirstLetterStyle
+    {
+		font-family: "Times New Roman",Times,serif;		
+        font-weight: normal;
+        font-size: 32px;
+    }
+    */
+	.title
+	{
+		font-family: museo-slab, Georgia, "Times New Roman", Times, serif;
+        font-weight: bold;
+        line-height: 1.1;
+        font-size: 15px;
+	}
+	/*.SubSectionStyle
+	{
+		font-family: "Times New Roman",Times,serif;		
+        font-weight: normal;
+        font-size: 18px;
+	}
+    */
+    
+    /*.contextStyle
+    {
+        font-size: medium;
+        font-family: sans-serif;
+        font-family: times new roman;
+        font-weight: normal;
+    }
+	.normalStyle
+	{
+		font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif
+        font-size: 14px;
+        line-height: 1.42857143;
+		font-weight: normal;
+	}
+	.nameStyle 
+	{
+		font-size: 36px;
+		font-family: "Times New Roman", Times, serif;
+		color: #000000;
+	}*/
+	.segmentationLineStyle
+	{
+		color:#970F00;
+		font-family:"Times New Roman",Times,serif;
+		font-size:16px;
+	}
+	#publications li
+	{
+		margin-bottom: 20px;
+	}
+.entry {
+    padding-bottom: 30px;
+}
+
+/* Page */
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+    border-color: #fff;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+#page {
+    background: #fff;
+    width: 695px;
+    margin: 0px auto;
+    float: left;
+}
+
+/* Content */
+
+#content {
+    float: left;
+    width: 665px;
+}
+
+/* Sidebar */
+#sidebar {
+    float: right;
+    width: 240px;
+    padding: 6px 12px 18px 12px;
+    overflow: hidden;
+}
+
+#sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#sidebar li {
+    padding-left: 12px;
+    margin-bottom: 5px;
+    /*background: url(images/bullet.gif) no-repeat 6px 50%;*/
+}
+
+#sidebar a:hover {
+    text-decoration: underline;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.job {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
